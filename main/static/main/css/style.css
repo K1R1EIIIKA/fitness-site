@@ -251,7 +251,7 @@ a:focus {
     border-radius: 0 0 2px 2px;
     padding: 1rem 2rem;
     position: relative;
-    height: 350px;
+    height: 100%;
 }
 
 .class-info strong {
